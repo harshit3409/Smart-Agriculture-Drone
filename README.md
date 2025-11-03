@@ -9,6 +9,10 @@ This project aims to develop a **drone-based intelligent evapotranspiration (ET)
 
 By integrating **AI/ML, drone-based imaging, and cloud-based analytics**, the system provides **real-time farm-level water auditing, crop health monitoring, and water-use efficiency assessment** — even under cloudy conditions where satellite data fail to deliver reliable results.
 
+This project is a basic prototype for a Plant Disease Recognition System that uses AI/ML-based image classification to detect plant leaf diseases.
+The prototype runs on a Windows laptop using a standard webcam to capture live images of leaves and identify possible diseases in real-time.
+In the full-scale implementation, this system will be deployed on edge AI computers such as the NVIDIA Jetson Nano or Raspberry Pi 5, integrated with an onboard camera for autonomous field-level disease monitoring via drones or robotic platforms.
+
 ---
 
 ## 🧠 Problem Statement
